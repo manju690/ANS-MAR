@@ -6,7 +6,7 @@
 - [Introduction](#Introduction)
 - [Purpose](#Purpose)
 - [Scope](#Scope)
-- [AddingRoles](#AddingRoles)
+- [Stages For Adding Puppet Roles](#Stages-For-Adding-Puppet-Roles)
 - [Updating Roles Procedure In ANS-MAR Under VRA Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRA-Environment)
 - [Updating Roles Procedure In ANS-MAR Under VRO Environment](#Updating-Roles-Procedure-In-ANS-MAR-Under-VRO-Environment)
 
@@ -29,7 +29,7 @@ The scope of this document covers the following:
 
      Adding Puppet Role/Tag in ANS-MAR, ANS-CLY Environment
 
-# Stages For Adding Roles
+# Stages For Adding Puppet Roles
 
       If we get any requests to add or update puppet role , There are two places where we have to make changes
 
@@ -88,6 +88,8 @@ The scope of this document covers the following:
 
 
 ## Stage 2
+
+
 
 ## Updating Roles Procedure In ANS-MAR Under VRO Environment
 
